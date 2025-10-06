@@ -23,7 +23,7 @@ python run.py
 ```
 
 
-## Citations
+## Sources
 
 #### If you use this library, please also cite the foundational works:
 
